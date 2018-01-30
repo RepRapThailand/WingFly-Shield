@@ -6,7 +6,3 @@ The WingFly-Shield extends all pins of an Arduino Board out to screw terminals (
 
 ## Shop
 * [WingFly-Shield](http://www.watterott.com/en/Arduino-WingFly-Shield)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/WingFly-Shield/tree/master/hardware)
